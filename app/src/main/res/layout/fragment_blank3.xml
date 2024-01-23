@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/purple_500"
+    tools:context=".BlankFragment3">
+ <EditText
+     android:id="@+id/examid"
+     android:layout_width="match_parent"
+     android:layout_height="45dp"
+     android:hint="enter id exam"
+     android:textColor="@color/black"
+     android:layout_marginHorizontal="15dp"
+     android:layout_marginTop="20dp"
+     android:textColorHint="@color/black"
+     android:background="@color/white"
+     android:textSize="25sp"/>
+
+
+ <Button
+     android:id="@+id/gofragment4"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="70dp"
+     android:text="go"
+     android:layout_marginHorizontal="15dp"
+     android:textSize="20sp"
+     android:background="@drawable/botom_navigationde"
+     app:backgroundTint="@color/purple_700"
+     />
+ <Button
+     android:id="@+id/gofragmentcustomadapter"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="130dp"
+     android:text="go list view"
+     android:layout_marginHorizontal="15dp"
+     android:textSize="20sp"
+     android:background="@drawable/botom_navigationde"
+     app:backgroundTint="@color/purple_700"
+     />
+ <Button
+     android:id="@+id/gofragmentrecyclerview"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="190dp"
+     android:text="go recycler"
+     android:layout_marginHorizontal="15dp"
+     android:textSize="20sp"
+     android:background="@drawable/botom_navigationde"
+     app:backgroundTint="@color/purple_700"
+     />
+
+
+</FrameLayout>
