@@ -7,6 +7,6 @@
 
 ## how to make photo circle using circleimageview implementation 'de.hdodenhof:circleimageview:3.1.0'
 
-## how to use navigation components like BottomNavigationView with the selector to determine the color of elements 
+## How to use navigation components like BottomNavigationView with the selector to determine the color of elements 
 
 ## how to use recycler-view and list-view to show elements
