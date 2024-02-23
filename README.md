@@ -5,7 +5,7 @@
 
 ## How to take a photo from a user using image-picker implementation 'com.github.dhaval2404:imagepicker:2.1' 
 
-## how to make photo circle using circleimageview implementation 'de.hdodenhof:circleimageview:3.1.0'
+## How to make photo circle using circleimageview implementation 'de.hdodenhof:circleimageview:3.1.0'
 
 ## How to use navigation components like BottomNavigationView with the selector to determine the color of elements 
 
