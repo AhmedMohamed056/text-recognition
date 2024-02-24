@@ -9,4 +9,4 @@
 
 ## How to use navigation components like BottomNavigationView with the selector to determine the color of elements 
 
-## how to use recycler-view and list-view to show elements
+## How to use recycler-view and list-view to show elements
